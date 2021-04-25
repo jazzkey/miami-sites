@@ -3,14 +3,14 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
 }
 
 body {
-	font: 14px/24px Helvetica, Sans-Serif; color: #a8f6f8;
+	font: 14px/24px Helvetica, Sans-Serif; color: #443a84;
 }
 
 a {
-	color: #27fdf5; text-decoration: none;
+	color: #f765b8; text-decoration: none;
 }
 	a:hover {
-		color: #f765b8;
+		color: #27fdf5;
 	}
 
 #container {
