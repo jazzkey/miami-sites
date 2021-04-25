@@ -50,7 +50,7 @@ a {
 		width: 590px; padding: 35px 30px 60px 30px;
 	}
 		#main #content .post {
-			display: block;
+			clear:left;
 		}
 		#main #content h2 {
 			font-size: 24px; font-weight: normal; text-transform: uppercase;
