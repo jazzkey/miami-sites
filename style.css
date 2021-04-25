@@ -47,7 +47,7 @@ a {
 	border-bottom: 15px solid #fff;
 }
 	#main #content {
-		white-space:nowrap; width: 590px; padding: 35px 30px 60px 30px;
+		width: 590px; padding: 35px 30px 60px 30px;
 	}
 		#main #content .post {
 			display: block;
