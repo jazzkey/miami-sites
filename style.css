@@ -49,7 +49,7 @@ a {
 	#main #content {
 		white-space:nowrap; width: 590px; padding: 35px 30px 60px 30px;
 	}
-		#main #content #post {
+		#main #content .post {
 			display: inline-block;
 		}
 		#main #content h2 {
