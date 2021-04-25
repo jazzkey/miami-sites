@@ -47,8 +47,11 @@ a {
 	border-bottom: 15px solid #fff;
 }
 	#main #content {
-		width: 590px; padding: 35px 30px 60px 30px;
+		white-space:nowrap; width: 590px; padding: 35px 30px 60px 30px;
 	}
+		#main #content #post {
+			display: inline-block;
+		}
 		#main #content h2 {
 			font-size: 24px; font-weight: normal; text-transform: uppercase;
 			margin: 0 0 15px 0;
